@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.0/MiTV.apk",
-  "notes": "Notificaciones con portada · Centro de avisos · Avisos del administrador",
+  "version": "1.2.1",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.1/MiTV.apk",
+  "notes": "Arregla el cierre al abrir en Android 13 o menos (Fire TV) · Manga: vuelven MangasIn y MangaDex · «Todos» mezcla las fuentes",
   "mandatory": true
 }
