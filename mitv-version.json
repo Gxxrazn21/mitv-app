@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.2/MiTV.apk",
-  "notes": "Control remoto y pausa en TV · Saltar intro en TV · Salida limpia de pantalla completa · Fútbol 100% en reproductor interno",
+  "version": "1.2.3",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.3/MiTV.apk",
+  "notes": "Barra limpia sin boton extra de pausa, respuesta directa del control remoto en TV y correccion de estabilidad y seleccion de servidores",
   "mandatory": true
 }
