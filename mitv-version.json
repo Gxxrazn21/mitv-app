@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.3/MiTV.apk",
-  "notes": "Barra limpia sin boton extra de pausa, respuesta directa del control remoto en TV y correccion de estabilidad y seleccion de servidores",
+  "version": "1.2.4",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.4/MiTV.apk",
+  "notes": "Paginacion y Cargar mas en Peliculas, Series y Novelas, y correccion de salto al inicio en TV al cargar mas animes",
   "mandatory": true
 }
