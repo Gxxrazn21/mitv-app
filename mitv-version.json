@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.1/MiTV.apk",
-  "notes": "Arregla el cierre al abrir en Android 13 o menos (Fire TV) · Manga: vuelven MangasIn y MangaDex · «Todos» mezcla las fuentes",
+  "version": "1.2.2",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.2/MiTV.apk",
+  "notes": "Control remoto y pausa en TV · Saltar intro en TV · Salida limpia de pantalla completa · Fútbol 100% en reproductor interno",
   "mandatory": true
 }
