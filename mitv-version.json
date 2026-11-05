@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.6/MiTV.apk",
-  "notes": "• Icono de campana de avisos corregido en la barra superior (Phosphor Icons oficial) • Visible en móviles, TV y escritorio sin quedar en círculo vacío • Actualización obligatoria",
+  "version": "1.2.7",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.7/MiTV.apk",
+  "notes": "• Nuevo: descarga capítulos de anime, películas y series para verlos sin internet (en viajes) • Se borran solos del teléfono cuando terminas de verlos (con Deshacer) • Solo descarga con Wi-Fi y hasta 720p para ahorrar espacio • Sección Descargas en Inicio y en la barra superior • Actualización obligatoria",
   "mandatory": true
 }
