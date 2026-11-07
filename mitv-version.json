@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.9/MiTV.apk",
-  "notes": "Tabla de posiciones segmentada por zonas (Campeón, Champions, Europa, Libertadores, Sudamericana y Descenso) con columna Pts al inicio, racha de últimos 5 partidos y leyenda; equipos favoritos con alertas automáticas cuando juegan; escudos de todos los clubes en partidos y ligas; corrección de íconos y diseño responsive sin recortes en móvil y TV",
+  "version": "1.3.0",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.0/MiTV.apk",
+  "notes": "• Notificaciones del sistema en segundo plano con la app cerrada: inicio exacto de partidos de tus equipos favoritos, nuevos capítulos de tus animes favoritos y nuevas películas agregadas en MiTV\n• Fases eliminatorias completas en Libertadores, Sudamericana, Champions y Copas: Fase de Grupos, Octavos de Final, Cuartos de Final, Semifinales y Final\n• Proveedores de partidos en vivo reforzados y auto-reparados (28+ eventos en vivo y hasta 10 señales HD por partido)",
   "mandatory": true
 }
