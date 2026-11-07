@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.8/MiTV.apk",
-  "notes": "- Nuevo Centro Mundial de Fútbol (pestaña «Ligas y Tabla»): explora más de 40 ligas y copas locales e internacionales filtradas por región (Sudamérica, Europa, América/Concacaf, Internacional y Resto del Mundo) con logos oficiales de competiciones y escudos de equipos.\n- Tablas de Posiciones en vivo (incluyendo fases de grupos y zonas), ranking de Goleadores, líderes de Asistencias y Estadísticas generales por liga y por partido (posesión, tiros al arco, córners, faltas y goles por minuto).\n- Tarjetas de partidos en vivo y filtros de torneos enriquecidos con los logos oficiales de cada competición y los escudos de los clubes.\n- Blindaje de reproducción en Películas, Series y Anime: validación estricta de título y año en todos los proveedores para nunca mezclar otra película distinta, y bloqueo de servidor una vez iniciada la reproducción para que jamás cambie de servidor a mitad de la nada.",
+  "version": "1.2.9",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.2.9/MiTV.apk",
+  "notes": "Tabla de posiciones segmentada por zonas (Campeón, Champions, Europa, Libertadores, Sudamericana y Descenso) con columna Pts al inicio, racha de últimos 5 partidos y leyenda; equipos favoritos con alertas automáticas cuando juegan; escudos de todos los clubes en partidos y ligas; corrección de íconos y diseño responsive sin recortes en móvil y TV",
   "mandatory": true
 }
