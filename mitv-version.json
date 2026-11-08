@@ -1,6 +1,7 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.1/MiTV.apk",
-  "notes": "- Logos oficiales HD verificados al 100% en las 69 ligas, copas nacionales, supercopas y torneos internacionales (Copa BetPlay, Libertadores, Sudamericana, Recopa, Copa Argentina, Copa do Brasil, Ligas de Chile/Perú/Ecuador/Uruguay/Paraguay/Venezuela/Bolivia, LaLiga 2, Championship, Serie B, 2. Bundesliga, Süper Lig, Copa de Francia, Concachampions, Copa Oro, Eurocopa, Nations League, Mundial de Clubes y Liga Saudí)\n- Escudos oficiales verificados para más de 1.450 clubes y selecciones de primera, segunda división y copas, sin cruces de nombres entre países o ciudades (ej. Racing Santander vs Racing Club, Córdoba CF vs Jaguares)\n- Respaldo automático en tiempo real desde TheSportsDB para clubes de copa y ascenso, más actualización automática de enlaces HTTP a HTTPS en todos los escudos\n- Logos oficiales en tarjetas y filtros de partidos en vivo (incluyendo segundas divisiones, copas y deportes como Fórmula 1, NBA, NFL, MLB y UFC)",
-  "mandatory": true
+  "version": "1.3.2",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.2/MiTV.apk",
+  "notes": "Descargas con datos móviles solo con autorización del usuario · Tarjeta de detalle con selección de servidor para reproducir o descargar en Películas, Series y Anime · Mejoras de interfaz responsiva sin elementos fuera de pantalla",
+  "mandatory": true,
+  "minVersion": "1.3.2"
 }
