@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.4/MiTV.apk",
-  "notes": "Optimización de espacios en Inicio, carga completa de todos tus favoritos en emisión, limpieza de botones en Fútbol y módulo dedicado de Ligas, Copas, Amistosos y Estadísticas",
+  "version": "1.3.5",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.5/MiTV.apk",
+  "notes": "Buscador de ligas corregido sin vaciar tablas · API de respaldo conjunta (espejo ESPN Web y TheSportsDB) + jornadas recientes · Cancha 2D con formaciones tácticas y caras de jugadores",
   "mandatory": true,
-  "minVersion": "1.3.4"
+  "minVersion": "1.3.5"
 }
