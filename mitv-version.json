@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.3/MiTV.apk",
-  "notes": "Pantalla completa 100% limpia en 1, 2 y 4 pantallas · La barra superior y controles ya no quedan fijos tapando el marcador ni la señal y solo se muestran al tocar la pantalla",
+  "version": "1.3.4",
+  "url": "https://github.com/Gxxrazn21/mitv-app/releases/download/v1.3.4/MiTV.apk",
+  "notes": "Optimización de espacios en Inicio, carga completa de todos tus favoritos en emisión, limpieza de botones en Fútbol y módulo dedicado de Ligas, Copas, Amistosos y Estadísticas",
   "mandatory": true,
-  "minVersion": "1.3.3"
+  "minVersion": "1.3.4"
 }
